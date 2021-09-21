@@ -1,4 +1,4 @@
-# Playground
+# Playground for CS107.
 
 A place to play with `git`.
 
