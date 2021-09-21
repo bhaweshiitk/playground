@@ -1,4 +1,4 @@
-# Playground asdfds
+# Playground for CS107.
 
 A place to play with `git`.
 
